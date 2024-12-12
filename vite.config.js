@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), ghPages()],
-  base: "/tetodo/",
+  base: "/tet-jodo/",
   server: { port: 3000 },
   build: {
     rollupOptions: {
