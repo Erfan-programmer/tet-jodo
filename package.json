@@ -2,7 +2,7 @@
   "name": "jodo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Erfan-programmer.github.io/test-jodo",
+  "homepage": "https://Erfan-programmer.github.io/tet-jodo",
   "type": "module",
   "scripts": {
     "dev": "vite --open",
