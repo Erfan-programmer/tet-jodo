@@ -2,13 +2,13 @@
   "name": "jodo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hanisalimi.github.io/jodowebapp",
+  "homepage": "https://Erfan-programmer.github.io/test-jodo",
   "type": "module",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "vite build && vite gh-pages",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
